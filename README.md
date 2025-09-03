@@ -1,4 +1,4 @@
-<img width="880" height="376" alt="eb715744c65627e67f3ec18ed0e78d7f" src="https://github.com/user-attachments/assets/48d6fad1-f4a4-4619-aae5-205095507f23" /># OzonDataset
+# OzonDataset
 OzonDataset  ozon数据集  ozon商品数据集
 
 这只是部分数据  数据更新日期： 2025-09-01
